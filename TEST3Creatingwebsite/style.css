@@ -1,0 +1,28 @@
+body {
+    text-align: center;
+}
+
+.hello_world {
+    color: blue;
+    font-family: fantasy;
+}
+
+.aaa {
+    font-family: fantasy;
+}
+
+.emaildiv {
+    height: 30px;
+}
+
+.usernamediv {
+    height: 30px;
+}
+
+.passworddiv {
+    height: 40px;
+}
+
+.btn {
+    cursor: pointer;
+}
